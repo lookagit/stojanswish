@@ -1,0 +1,1 @@
+var stojan = 3;
