@@ -1,0 +1,1 @@
+var baki = "BAKY";
