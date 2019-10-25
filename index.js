@@ -1,1 +1,1 @@
-var baki = "BAKY";
+var baki = "BAKY!";
